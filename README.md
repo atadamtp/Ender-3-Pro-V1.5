@@ -1,1 +1,1 @@
-# Ender-3-V1.5
+# Ender-3-Pro-V1.5
